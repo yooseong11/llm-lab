@@ -1,6 +1,8 @@
 """
-01. 기본 체인
-프롬프트 -> 모델 -> 출력 파서를 연결한다.
+02. LangChain
+2.1 기초 챗봇 구현
+2.2 메모리 구현
+2.3 LangGraph, LangSmiths 개념 이해
 """
 
 from dotenv import load_dotenv

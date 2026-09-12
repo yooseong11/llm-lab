@@ -1,6 +1,8 @@
 """
-02. 에이전트
-도구를 등록하고 모델이 스스로 호출하게 한다.
+03. Agent Basic
+3.1 기초 agent 구현
+3.2 middleware 이해
+3.3 Built-in Middleware 구현
 """
 
 from dotenv import load_dotenv

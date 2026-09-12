@@ -1,6 +1,8 @@
 """
-03. 미들웨어
-요청과 응답 사이에 처리 단계를 끼워넣는다.
+04. Advanced Agent
+4.1 Context Engineering 이해
+4.2 가드레일, Custom Middleware 구현
+4.3 메모리 구현
 """
 
 from dotenv import load_dotenv

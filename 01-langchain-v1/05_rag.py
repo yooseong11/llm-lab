@@ -1,6 +1,7 @@
 """
 05. RAG
-문서를 쪼개 검색해서 답변 근거로 쓴다.
+5.1 RAG 이해 및 구현
+5.2 Agentic RAG 구현
 """
 
 from dotenv import load_dotenv
