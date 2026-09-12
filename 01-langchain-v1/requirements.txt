@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-community
+python-dotenv
+
+# RAG 실습 시작할 때 주석 해제
+# langchain-chroma
+# pypdf
